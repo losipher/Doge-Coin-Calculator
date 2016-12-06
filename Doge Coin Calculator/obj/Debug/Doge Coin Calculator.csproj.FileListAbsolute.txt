@@ -1,0 +1,13 @@
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\bin\Debug\Doge Coin Calculator.exe.config
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\bin\Debug\Doge Coin Calculator.exe
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\bin\Debug\Doge Coin Calculator.pdb
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\Doge Coin Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\MainWindow.baml
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\App.g.cs
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\Doge Coin Calculator_MarkupCompile.cache
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\Doge Coin Calculator.g.resources
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\Doge_Coin_Calculator.Properties.Resources.resources
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\Doge Coin Calculator.csproj.GenerateResource.Cache
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\Doge Coin Calculator.exe
+C:\Users\Carlos and Erica\documents\visual studio 2012\Projects\Doge Coin Calculator\Doge Coin Calculator\obj\Debug\Doge Coin Calculator.pdb
